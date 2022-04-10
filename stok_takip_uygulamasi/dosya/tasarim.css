@@ -1,0 +1,50 @@
+body {
+	background-color:#F6F6F6;
+	
+}
+#cont {
+	background-color:#FFF;
+
+	border:1px solid #E8E8E8;
+	min-height:600px;
+	margin-top:10px; 
+}
+
+#row {
+	background-color:#EFEFEF;
+	
+}
+
+#linkim{
+margin-right:10px;
+margin-top:3px; 
+text-decoration:none;
+
+}
+
+#ustbolum {
+	padding-top:10px;
+	
+}
+
+#kutuliste {
+	margin:4px;
+	min-height:30px;
+	border:1px solid  #000;
+
+	
+}
+
+#islem {
+	margin-right:5px;
+	
+}
+
+#siraliste {
+	margin:10px;
+	height:30px;
+	padding:3px;	
+	border-radius:3px;
+
+	
+}
